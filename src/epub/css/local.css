@@ -3,14 +3,14 @@
 
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p,
-[epub|type~="z3998:song] p {
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:verse"] p + p,
 [epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:song] p + p {
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
