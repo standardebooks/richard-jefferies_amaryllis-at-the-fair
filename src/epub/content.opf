@@ -78,6 +78,7 @@
 		<dc:contributor id="intro-author-1">Edward Garnett</dc:contributor>
 		<meta property="file-as" refines="#intro-author-1">Garnett, Edward</meta>
 		<meta property="se:role" refines="#intro-author-1" scheme="marc:relators">aui</meta>
+		<meta property="se:role" refines="#intro-author-1" scheme="marc:relators">ann</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
