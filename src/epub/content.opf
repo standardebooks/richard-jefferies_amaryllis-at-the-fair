@@ -31,11 +31,11 @@
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A description of country life in England told through the lens of the Iden family.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; is a work of fiction largely based on &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies’&lt;/a&gt; childhood in rural England. The author tenderly shows the difficulties and beauties of rural life in a family stuggling to make ends meet. The narrative, such as there is one, focuses on young Amaryllis and her observations and interactions with her family and people from the surrounding towns.&lt;/p&gt;
-			&lt;p&gt;The novel is written in a style that does not place much emphasis on story, and instead goes into great detail on topics as varried as country life, strong ale, the construction of a good fence, the disappointments of age, the joys and troubles of family, and poverty; among others. These topics are often commented on by the narrator, who acts as a stand-in for Jefferies.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; is a work of fiction largely based on &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies’&lt;/a&gt; childhood in rural England. The author tenderly shows the difficulties and beauties of rural life in a family struggling to make ends meet. The narrative, such as there is one, focuses on young Amaryllis and her observations and interactions with her family and people from the surrounding towns.&lt;/p&gt;
+			&lt;p&gt;The novel is written in a style that does not place much emphasis on story, and instead goes into great detail on topics as varied as country life, strong ale, the construction of a good fence, the disappointments of age, the joys and troubles of family, and poverty, among others. These topics are often commented on by the narrator, who acts as a stand-in for Jefferies.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; was the last novel written by Richard Jefferies before his death. “The book is not a novel,” or some variation, was a common response from critics. It follows its own paths and often eschews traditional plot; instead providing fluidity and a clear view of the life of the family at the heart of the book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
