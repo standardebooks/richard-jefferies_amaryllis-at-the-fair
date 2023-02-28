@@ -105,3 +105,8 @@ section[epub|type~="epigraph"] > *{
 	}
 }
 /* End full-page epigraphs */
+
+blockquote > blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
