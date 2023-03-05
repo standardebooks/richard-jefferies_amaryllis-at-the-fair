@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/richard-jefferies/amaryllis-at-the-fair</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-03-05T06:18:01Z</dc:date>
+		<meta property="dcterms:modified">2023-03-05T06:18:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,17 +32,17 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A description of country life in England told through the lens of the Iden family.</dc:description>
+		<dc:description id="description">A family struggling to make ends meet becomes a framework for a description of rural English country life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; is a work of fiction largely based on &lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies’&lt;/a&gt; childhood in rural England. The author tenderly shows the difficulties and beauties of rural life in a family struggling to make ends meet. The narrative, such as there is one, focuses on young Amaryllis and her observations and interactions with her family and people from the surrounding towns.&lt;/p&gt;
-			&lt;p&gt;The novel is written in a style that does not place much emphasis on story, and instead goes into great detail on topics as varied as country life, strong ale, the construction of a good fence, the disappointments of age, the joys and troubles of family, and poverty, among others. These topics are often commented on by the narrator, who acts as a stand-in for Jefferies.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; was the last novel written by Richard Jefferies before his death. “The book is not a novel,” or some variation, was a common response from critics. It follows its own paths and often eschews traditional plot; instead providing fluidity and a clear view of the life of the family at the heart of the book.&lt;/p&gt;
+			&lt;p&gt;The novel is written in a style that does not place much emphasis on story, and instead goes into great detail on topics as varied as country life, strong ale, the construction of a good fence, the disappointments of age, the joys and troubles of family, and poverty. These topics are often commented on by the narrator, who acts as a stand-in for Jefferies.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Amaryllis at the Fair&lt;/i&gt; was the last novel written by Richard Jefferies before his death. “The book is not a novel,” or some variation, was a common response from critics. It follows its own paths and often eschews traditional plot, instead providing a fluid and clear view of the life of the family at the heart of the book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/30087</dc:source>
 		<dc:source>https://archive.org/details/amaryllisatfair00jeffrich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">62394</meta>
+		<meta property="se:reading-ease.flesch">66.67</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_amaryllis-at-the-fair</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
 		<meta property="file-as" refines="#author">Jefferies, Richard</meta>
@@ -75,10 +75,14 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-		<dc:contributor id="intro-author-1">Edward Garnett</dc:contributor>
-		<meta property="file-as" refines="#intro-author-1">Garnett, Edward</meta>
-		<meta property="se:role" refines="#intro-author-1" scheme="marc:relators">aui</meta>
-		<meta property="se:role" refines="#intro-author-1" scheme="marc:relators">ann</meta>
+		<dc:contributor id="author-of-introduction">Edward Garnett</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Garnett, Edward</meta>
+		<meta property="se:role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<meta property="se:role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
