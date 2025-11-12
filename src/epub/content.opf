@@ -78,8 +78,8 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="author-of-introduction">Edward Garnett</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Garnett, Edward</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50015175</meta>
 		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
