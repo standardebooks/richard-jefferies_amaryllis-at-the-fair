@@ -82,6 +82,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="author-of-introduction">Edward Garnett</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Garnett, Edward</meta>
+		<link href="https://en.wikipedia.org/wiki/Edward_Garnett" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<link href="https://id.loc.gov/authorities/names/n50015175.html" refines="#author-of-introduction" rel="schema:sameAs"/>
