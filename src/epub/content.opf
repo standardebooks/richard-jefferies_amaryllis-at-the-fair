@@ -55,8 +55,8 @@
 		<link href="https://id.loc.gov/authorities/names/n81125341.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
-		<dc:contributor id="artist">Camille Corot</dc:contributor>
-		<meta property="file-as" refines="#artist">Corot, Camille</meta>
+		<dc:contributor id="artist">Jean-Baptiste-Camille Corot</dc:contributor>
+		<meta property="file-as" refines="#artist">Corot, Jean-Baptiste-Camille</meta>
 		<link href="https://en.wikipedia.org/wiki/Jean-Baptiste-Camille_Corot" refines="#artist" rel="schema:sameAs"/>
 		<meta property="schema:alternateName" refines="#artist">Jean-Baptiste-Camille Corot</meta>
 		<link href="https://id.loc.gov/authorities/names/n50020661.html" refines="#artist" rel="schema:sameAs"/>
